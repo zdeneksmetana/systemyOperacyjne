@@ -1,0 +1,2 @@
+# systemyOperacyjne
+Bardzo wazne repozytorium.
